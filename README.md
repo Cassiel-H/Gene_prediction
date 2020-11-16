@@ -1,4 +1,4 @@
-# Gene_prediction package need to be downloaded
+# Package need to be downloaded
 (under environment Python3.8)
 - biopython 1.78
 - gffutils 0.10.1
