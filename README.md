@@ -8,3 +8,7 @@
 
 # Q1a
 put `Vibrio_cholerae.GFC_11.dna.toplevel.fa` , `Vibrio_cholerae.GFC_11.37.gff3` and `Q1a.py` in the same working directory
+
+# Q1b
+Make sure `config.py`, `Q1b.py` and`Vibrio_cholerae.GFC_11.dna.toplevel.fa` are on the same working directory. 
+`"Vibrio_cholerae.GFC_11.dna.toplevel.fa" "config_final"`
