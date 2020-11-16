@@ -11,7 +11,7 @@ put `Vibrio_cholerae.GFC_11.dna.toplevel.fa` , `Vibrio_cholerae.GFC_11.37.gff3` 
 
 # Q1b
 Make sure `config.py`, `Q1b.py` and`Vibrio_cholerae.GFC_11.dna.toplevel.fa` are on the same working directory<br/>
-On the configuration settings of `Q1b.py`, find Parameters and entre `"Vibrio_cholerae.GFC_11.dna.toplevel.fa" "config.py"`. 
+To run the two input files, on the configuration settings of `Q1b.py`, find Parameters and entre `"Vibrio_cholerae.GFC_11.dna.toplevel.fa" "config.py"`. 
 
 # Q1c
 Make sure `config.py`, `Q1b.py` and`Vibrio_vulnificus.ASM74310v1.dna.toplevel.fa` are on the same working directory<br/>
