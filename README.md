@@ -15,5 +15,10 @@ On the configuration settings of `Q1b.py`, find Parameters and entre `"Vibrio_ch
 
 # Q1c
 Make sure `config.py`, `Q1b.py` and`Vibrio_vulnificus.ASM74310v1.dna.toplevel.fa` are on the same working directory. 
-On the configuration settings of `Q1b.py`, find Parameters and entre `"Vibrio_vulnificus.ASM74310v1.dna.toplevel.fa" "config.py"`
+On the configuration settings of `Q1b.py`, find Parameters and entre `"Vibrio_vulnificus.ASM74310v1.dna.toplevel.fa" "config.py"`. 
+To get output name changed, change code on `Q1b.py` line 27 to `output = open(r"1c_out.gff3", "w")`
+
+# Q1d
+Make sure `Q1d.py`,`Vibrio_vulnificus.ASM74310v1.37.gff3` and `1c_out.gff3` are on the same working directory. 
+
 
